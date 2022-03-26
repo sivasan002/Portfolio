@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Ravi Teja Tamvada </p>
+logo: /assets/img/profil_pic.png
+
+description:
+  <p align="center">
+  <a href="pdf/RT_Tamvada_resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rtamvada/">LinkedIn</a> |
+  <a href="https://github.com/rtamvada">GitHub</a>
+  
+  <br>   
+  I am pursuing an Executive PG Program in ML/AI from IIIT-Bangalore.
+  Have knowledge of Python, NumPy, Pandas, Matplotlib, Seaborn libraries.
+  Also, I have 7yr of experience as an Embedded Software Developer and currently working with Nvidia Graphics.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
