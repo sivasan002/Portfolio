@@ -1,11 +1,19 @@
 title: <p align="center"> Sivasankar </p>
 logo: /assets/logo/My Photo New.jpg
+
 description:
   <p align="center">
-  <a href="docs/resume.pdf">Resume</a> |
+  <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/siva-sankar-june1984/">LinkedIn</a> |
-  <a href="https://github.com/sivasan002/">GitHub</a>
+  <a href="https://github.com/sivasan002">GitHub</a>
   
-show_downloads: true
+  <br>   
+  I am pursuing an Executive PG Program in ML/AI from IIIT-Bangalore.
+  I have 14 years of rich experience in industrial machinary automation.
+  presently working as deputy manager - Automation at ELGI ULTRA LIMITED
+  <br>
+  </p>
+
+
 
 theme: jekyll-theme-minimal
