@@ -1,13 +1,14 @@
+title: <p align="center"> Sivasankar </p>
+logo: /assets/logo/My Photo New.jpg
 
-# Project 1
-
- Fraud Detection
-
-## Project 2
-   Machine Learning
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/siva-sankar-june1984/">LinkedIn</a> |
+  <a href="https://github.com/sivasan002">GitHub</a>
+  
+  <br>   
+  I am pursuing an Executive PG Program in ML/AI from IIIT-Bangalore.
+  I have 14 years of experience in Industrial Machinary Automation.
+  <br>
+  </p>
