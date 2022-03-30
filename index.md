@@ -1,14 +1,11 @@
-title: <p align="center"> Sivasankar </p>
-logo: /assets/logo/My Photo New.jpg
+# Data Science Portfolio
+---
+## Machine learning
 
-description:
-  <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/siva-sankar-june1984/">LinkedIn</a> |
-  <a href="https://github.com/sivasan002">GitHub</a>
-  
-  <br>   
-  I am pursuing an Executive PG Program in ML/AI from IIIT-Bangalore.
-  I have 14 years of experience in Industrial Machinary Automation.
-  <br>
-  </p>
+### Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sivasan002/fraud_detection)
+
+<center><img src="assets/img/fraud_detection.jpg"/></center>
