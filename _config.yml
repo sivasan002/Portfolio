@@ -1,6 +1,10 @@
-title: Minimal theme
+title: <p align="center"> Sivasankar </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/siva-sankar-june1984/">LinkedIn</a> |
+  <a href="https://github.com/sivasan002/">GitHub</a>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
